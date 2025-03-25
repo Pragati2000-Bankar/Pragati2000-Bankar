@@ -5,7 +5,10 @@
 - 😄 Pronouns: Pragati
 - ⚡ Fun fact: I think am funny
 
-<!---
-Pragati2000-Bankar/Pragati2000-Bankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages and Tools:
+mysql
+pandas
+python
+scikit_learn
+seaborn
+
